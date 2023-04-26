@@ -12,8 +12,8 @@ Sean Labitigan seannyboy100@csu.fullerton.edu\
 Khang Tran     ktran1405@csu.fullerton.edu\
 Jasen Castillo castillojasen@csu.fullerton.edu\
 
-to start the server: python s.py
-to start the client: python c.py
+to start the server: python s.py\
+to start the client: python c.py\
 
 client  output:
 
